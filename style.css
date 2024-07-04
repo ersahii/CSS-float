@@ -1,0 +1,31 @@
+*{
+    margin:10px;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+header{
+    border:2px solid black;
+    padding:40px;
+    background-color:orange;
+}
+.slidebar{
+    border:2px solid black;
+    width: 25vw;
+    height: 500px;
+    float: left;
+    background-color:green;
+}
+.main-content{
+    border:2px solid black;
+    width: 65vw;
+    height: 500px;
+    float: right;
+    background-color:blue;
+}
+footer{
+    border: 2px solid black;
+    padding:40px;
+    clear: both;
+    background-color:blueviolet;
+}
